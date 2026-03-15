@@ -24,8 +24,8 @@ DATA_FILE = os.path.join(BASE_DIR, "patients_data.csv")
 # ==========================================
 # ADMIN CREDENTIALS
 # ==========================================
-ADMIN_EMAIL = "sindesriya@gmail.com"
-ADMIN_PHONE = "8919575730"
+ADMIN_EMAIL = "shivayadav33@gmail.com"
+ADMIN_PHONE = "9347327038"
 OTP_EXPIRY_SECONDS = 30
 
 # ==========================================
